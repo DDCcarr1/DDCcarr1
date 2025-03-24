@@ -11,4 +11,20 @@
 > You really think I'm going to share my personal information? No. I prefer being safe online! 🥰
 > Pronouns: He/Him/His
 
--# Also I'm learning Markdown for these *readme* files... wow too many languages right? nah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Also I'm learning Markdown for these *readme* files... wow too many languages right? nah
