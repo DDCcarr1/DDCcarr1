@@ -12,4 +12,4 @@
 - Java
 
 ## Certifications
-None yet.
+Java - Information Technology Specialist
