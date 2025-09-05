@@ -1,15 +1,4 @@
 # DDCcarr1
-
-## Languages
-### Beginner
-- HTML
-- CSS
-
-### Intermediate
-- Python
-
-### Somewhat Advanced
-- Java
-
-## Certifications
-Java - Information Technology Specialist
+## Official Certifications
+Java    |  Information Technology Specialist  |  June  2025
+Python  |  Information Technology Specialist  |  June  2025
