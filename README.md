@@ -5,6 +5,3 @@ Why hello there. I'm DDCcarr1.
 |----------|----------------------------------|------------|
 | Java     | Information Technology Specialist|  May 2025  |
 | Python   | Information Technology Specialist|  May 2025  |
-## Projects I Like
-* [Ducky (Discord Bot)](https://duckybot.xyz)
-* [Scratch](https://scratch.mit.edu)
